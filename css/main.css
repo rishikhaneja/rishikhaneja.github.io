@@ -1,0 +1,78 @@
+body {
+    margin: 60px auto;
+    width: 70%;
+    background-color: #20222B;
+    color:white;
+    font-family: 'Scope One', serif;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+}
+nav ul, footer ul {
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
+}
+a {
+    text-decoration: none;
+}
+a {
+  color: #95c76f;
+}
+a:hover {
+  color: #64878f;
+  text-decoration: underline;
+}
+h1 {
+  font-size: 3;
+  font-weight: 400;
+  color: #8485ce;
+}
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 400;
+}
+h2 {
+    font-size: 1.5em;
+    line-height: 1.4em;
+}
+footer {
+    border-top: 1px solid #d5d5d5;
+    font-size: .8em;
+}
+ul.posts {
+    margin: 20px auto 40px;
+    font-size: 1.5em;
+}
+ul.posts li {
+    list-style: none;
+}
+
+/* Paddings */
+
+.padding-bottom { padding-bottom: 10px; }
+
+/* Fonts */
+
+.font-handwritten { font-family: 'Indie Flower', normal; }
+.font-mono { font-family: 'Share Tech Mono', monospace; }
+
+/* Color pallete */
+
+.color-orange { color: #d28e5d;}
+.color-red { color: #dc3c3c;}
+.color-fusia { color: #b73999;}
+.color-purple { color: #8485ce;}
+.color-forest-green { color: #64878f;}
+.color-mint-green { color: #95c76f;}
+.color-green { color: #52bd58;}
+.color-blue-green { color: #00aba5;}
+.color-blue { color: #4670d8;}
+
+.bg-dark { background-color: #20222B; }

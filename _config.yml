@@ -1,0 +1,3 @@
+name: Rishi Khaneja, will live for code
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
