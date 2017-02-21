@@ -10,7 +10,7 @@ date: 2017-02-21
 * Comments added onto lines, not before or after
 * When lines are added or removed, comment's mapping is automatically updated
 * Prompt whenever update not automatically resolvable
-* Open source, universal support
+* For Sublime Text, Phantoms API sounds promising https://www.sublimetext.com/blog/articles/sublime-text-3-build-3124
 
 ## Full Git Client Built In
 * No external git client needed
