@@ -1,3 +1,1 @@
-* blog: https://rishikhaneja.github.io/
-* uses: [jekyll](https://jekyllrb.com/)
-* markdown: [kramdown](https://kramdown.gettalong.org/syntax.html)
+https://rishikhaneja.github.io/ is built with [jekyll](https://jekyllrb.com/) in [kramdown](https://kramdown.gettalong.org/syntax.html) flavor
